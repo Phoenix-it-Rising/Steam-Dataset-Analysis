@@ -1,2 +1,25 @@
-# Steam-Dataset-Analysis
-This project analyzes data from the Steam gaming platform to uncover trends in game pricing, genres, and release patterns. It involves data cleaning, exploratory data analysis, and visualization to provide insights into factors influencing game popularity and pricing.
+# Steam Dataset Analysis
+
+## Description
+Analyzed Steam game data using Python, Pandas, and Matplotlib to uncover trends in pricing, genres, and release patterns. Includes data cleaning, visualization, and statistical insights.
+
+## Tech Stack
+- Python
+- Pandas
+- Matplotlib / Seaborn
+
+## Features
+- Data preprocessing and cleaning
+- Statistical analysis
+- Visualizations of trends
+
+## Dataset
+Steam dataset from Kaggle: [https://www.kaggle.com/datasets/nikdavissteam-store-games
+
+## How to Run
+1. Clone this repository.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the analysis script: `python analysis.py`
+
+## License
+MIT License
